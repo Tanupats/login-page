@@ -1,0 +1,16 @@
+h1{
+    color: #00379a;
+}
+button{
+    background-color: #00379a;
+    border: none;
+    font-weight: 700;
+}
+
+.form-item-right{
+    height: 300px;
+    width: 100%;
+    background-color: #00379a;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+}
